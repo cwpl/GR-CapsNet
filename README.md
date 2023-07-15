@@ -1,18 +1,4 @@
 # GR-CapsNet
-
-## Environment
-- torch 1.6.0
-- python 3.7
-- torchvision 0.7.0
-- tensorboard 2.2.0
-- tensorboardX 2.1.0
-- ml-collections 0.1.0
-- medpy 0.4.0
-- SimpleITK 2.0.2
-- scipy 1.5.3 
-- h5py 2.10.0
-- CUDA >= 10.2 supported GPU
-
 ## train
 - MF Routing
 
