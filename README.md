@@ -1,5 +1,4 @@
 # GR-CapsNet
-# MF Routing
 
 ## Environment
 - torch 1.6.0
